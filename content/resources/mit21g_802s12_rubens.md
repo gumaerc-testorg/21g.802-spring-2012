@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding "Rubens".
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-802-portuguese-ii-spring-2012/fa6927213bdb05fdea3122bfde300692_MIT21G_802S12_Rubens.pdf
+file: /media/courses/21g-802-portuguese-ii-spring-2012/fa6927213bdb05fdea3122bfde300692_MIT21G_802S12_Rubens.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Rubens
 uid: fa692721-3bdb-05fd-ea31-22bfde300692
