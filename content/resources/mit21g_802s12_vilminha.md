@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: bff058f9-038f-32a7-b679-2a9670b3658d
 resourcetype: Document
 title: A Vilminha
 uid: d5911115-8032-1446-2de2-39849c9a1d0b

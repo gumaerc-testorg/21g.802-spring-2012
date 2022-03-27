@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: bff058f9-038f-32a7-b679-2a9670b3658d
 resourcetype: Document
 title: A retranqueta do polidor
 uid: 5d406c40-0c8b-5e87-56f6-6540161fa864

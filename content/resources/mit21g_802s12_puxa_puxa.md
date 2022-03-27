@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: bff058f9-038f-32a7-b679-2a9670b3658d
 resourcetype: Document
 title: Puxa-puxa
 uid: bbd79a68-1d7d-97bf-2b5c-9b1ad2c5985e

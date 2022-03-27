@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: bff058f9-038f-32a7-b679-2a9670b3658d
 resourcetype: Document
 title: Rubens
 uid: fa692721-3bdb-05fd-ea31-22bfde300692

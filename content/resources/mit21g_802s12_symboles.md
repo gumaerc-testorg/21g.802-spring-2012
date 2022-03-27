@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: bff058f9-038f-32a7-b679-2a9670b3658d
 resourcetype: Document
 title: "S\xEDmbolos para a corre\xE7\xE3o das reda\xE7\xF5es"
 uid: 13959197-2f96-31eb-f0f3-e219a90640fa

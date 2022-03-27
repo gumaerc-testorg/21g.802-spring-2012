@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: bff058f9-038f-32a7-b679-2a9670b3658d
 resourcetype: Document
 title: "Jo\xE3o e Maria"
 uid: 1bd80a05-329d-0250-4ace-d8ce8dfb0370
