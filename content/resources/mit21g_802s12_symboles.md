@@ -6,6 +6,7 @@ file: /courses/21g-802-portuguese-ii-spring-2012/139591972f9631ebf0f3e219a90640f
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "S\xEDmbolos para a corre\xE7\xE3o das reda\xE7\xF5es"
 uid: 13959197-2f96-31eb-f0f3-e219a90640fa
 ---
 This file contains information regarding Símbolos para a correção das redações.
-
