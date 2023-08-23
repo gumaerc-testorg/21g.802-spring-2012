@@ -2,7 +2,8 @@
   "term": "Spring",
   "year": "2012",
   "level": [
-    "Undergraduate"
+    "Undergraduate",
+    "Graduate"
   ],
   "topics": [
     [
@@ -36,6 +37,7 @@
   "learning_resource_types": [
     "Activity Assignments"
   ],
-  "site_uid": "e75887f9-e758-4175-86c6-1f20c823924f",
+  "site_uid": "6235f2b3-5178-4f73-bbb6-e913b3c33cf2",
+  "site_short_id": "21g.802-spring-2012",
   "title": "Course Metadata"
 }
