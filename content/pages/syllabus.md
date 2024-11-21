@@ -46,11 +46,11 @@ A+ (98–100); A (94–97.9) A- (90–93.9); B+ (86–89.9); B (84–85.9); B- (
 
 - Attendance: As your progress, and that of the class as a whole, will be impeded by excessive absences, your presence in the classroom is imperative. If you must miss a class, there is no excuse for not being prepared for the next one. If you have to be absent, please contact the instructor in advance to find out what material you will miss. Each absence without an official excuse will lower your course attendance and participation grade. Any student who has accumulated more than three absences without an official excuse must see the instructor. Further absences after the warning will affect your final grade.
 - Participation: Your presence and active participation are essential in each and every session. This will be the most significant part of your grade since it is through continuous class interaction with other students that your communicative abilities in Portuguese will develop and improve. Your grade will be determined daily by the quality and quantity of your preparation and participation in class discussions, activities, group work, etc.
-- Homework: Students are expected to prepare the assigned materials for each class and complete the written work as stipulated in the syllabus. These assignments include:   
+- Homework: Students are expected to prepare the assigned materials for each class and complete the written work as stipulated in the syllabus. These assignments include:    
       
     - Studying the vocabulary and grammar in the *Ponto de encontro* text and completing any written exercises assigned.
     - Completing the exercises in the *Workbook.* The *Workbook* exercises can be checked with an answer key. You are expected to do these exercises and correct them using the answer key before handing them in.
-    - You can also have extra practice by going on-line and doing the *non-mandatory* exercises as a review for each lesson. They can be found at the [Ponto de Encontro website.](http://wps.prenhall.com/wl_klobucka_ponto_1/)
+    - You can also have extra practice by going on-line and doing the *non-mandatory* exercises as a review for each lesson. They can be found at the [Ponto de Encontro website.](https://lingrolearning.com/product/ponto/)
 
 *Compositions (redações): 25%*
 
