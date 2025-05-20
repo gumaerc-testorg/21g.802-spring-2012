@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding "Posto 5".
-file: /ol-ocw-studio-app/courses/21g-802-portuguese-ii-spring-2012/8f333ca54b7b0a93d86739e849e2b723_MIT21G_802S12_Posto_5.pdf
+file: /courses/21g-802-portuguese-ii-spring-2012/8f333ca54b7b0a93d86739e849e2b723_MIT21G_802S12_Posto_5.pdf
 file_size: 114041
 file_type: application/pdf
 learning_resource_types:

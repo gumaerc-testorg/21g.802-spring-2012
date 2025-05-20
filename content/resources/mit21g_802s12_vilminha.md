@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding "A Vilminha".
-file: /ol-ocw-studio-app/courses/21g-802-portuguese-ii-spring-2012/d5911115803214462de239849c9a1d0b_MIT21G_802S12_Vilminha.pdf
+file: /courses/21g-802-portuguese-ii-spring-2012/d5911115803214462de239849c9a1d0b_MIT21G_802S12_Vilminha.pdf
 file_size: 178942
 file_type: application/pdf
 learning_resource_types:

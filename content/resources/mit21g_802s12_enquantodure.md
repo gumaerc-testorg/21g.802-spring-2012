@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding "Enquanto dure". '
-file: /ol-ocw-studio-app/courses/21g-802-portuguese-ii-spring-2012/97a31c030d87ac5fe66afbe72156fea1_MIT21G_802S12_EnquantoDure.pdf
+file: /courses/21g-802-portuguese-ii-spring-2012/97a31c030d87ac5fe66afbe72156fea1_MIT21G_802S12_EnquantoDure.pdf
 file_size: 186819
 file_type: application/pdf
 learning_resource_types:

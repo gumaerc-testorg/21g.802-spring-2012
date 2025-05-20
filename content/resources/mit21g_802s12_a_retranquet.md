@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding "A retranqueta do polidor".
-file: /ol-ocw-studio-app/courses/21g-802-portuguese-ii-spring-2012/5d406c400c8b5e8756f66540161fa864_MIT21G_802S12_A_retranquet.pdf
+file: /courses/21g-802-portuguese-ii-spring-2012/5d406c400c8b5e8756f66540161fa864_MIT21G_802S12_A_retranquet.pdf
 file_size: 55265
 file_type: application/pdf
 learning_resource_types:
