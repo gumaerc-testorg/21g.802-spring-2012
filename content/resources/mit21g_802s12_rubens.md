@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding "Rubens".
-file: /courses/21g-802-portuguese-ii-spring-2012/fa6927213bdb05fdea3122bfde300692_MIT21G_802S12_Rubens.pdf
+file: /ol-ocw-studio-app/courses/21g-802-portuguese-ii-spring-2012/fa6927213bdb05fdea3122bfde300692_MIT21G_802S12_Rubens.pdf
 file_size: 115412
 file_type: application/pdf
 learning_resource_types:
