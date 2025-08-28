@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: "This file contains information regarding \"Jo\xE3o e Maria\"."
-file: /courses/21g-802-portuguese-ii-spring-2012/1bd80a05329d02504aced8ce8dfb0370_MIT21G_802S12_Joao_e_Maria.pdf
+file: /ol-ocw-studio-app/courses/21g-802-portuguese-ii-spring-2012/1bd80a05329d02504aced8ce8dfb0370_MIT21G_802S12_Joao_e_Maria.pdf
 file_size: 191178
 file_type: application/pdf
 learning_resource_types:
