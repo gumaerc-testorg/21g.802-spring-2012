@@ -14,7 +14,7 @@ uid: f3586190-e32e-e65a-e68b-8672db2ac9ca
 - Do *all* the homework *prior* to class in order to be well prepared for the in-class work. All other homework must be completed at the same pace as the material is covered in class.
 - Late work will not receive full credit.
 - *Remember* that the activities in the workbook *must be completed and self-corrected* in order to receive full credit. The Lab Portion and video are not mandatory, but they are highly recommended. If you want to have your own DVD, they are available for purchase.
-- WWW = for extra practice, you can find additional exercises and the complete audio of the material on the [Ponto de Encontro website](https://lingrolearning.com/product/ponto/) (exercises are not mandatory).
+- WWW = for extra practice, you can find additional exercises and the complete audio of the material on the {{% resource_link "65242352-86b0-401a-ac82-f4c9d4459deb" "Ponto de Encontro website" %}} (exercises are not mandatory).
 - Always read "Vamos Viajar" and "Horizontes" in the order they appear in each lesson and be prepared to talk about them.
 
 Note: The "Material Covered" column lists the *textbook* section and pages that correspond to the material covered during that class session; the "Lição de casa" column lists the *workbook* exercises to be completed and the pages to be read for homework.
