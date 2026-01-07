@@ -50,7 +50,7 @@ A+ (98–100); A (94–97.9) A- (90–93.9); B+ (86–89.9); B (84–85.9); B- (
       
     - Studying the vocabulary and grammar in the *Ponto de encontro* text and completing any written exercises assigned.
     - Completing the exercises in the *Workbook.* The *Workbook* exercises can be checked with an answer key. You are expected to do these exercises and correct them using the answer key before handing them in.
-    - You can also have extra practice by going on-line and doing the *non-mandatory* exercises as a review for each lesson. They can be found at the {{% resource_link "65242352-86b0-401a-ac82-f4c9d4459deb" "Ponto de Encontro website." %}}
+    - You can also have extra practice by going on-line and doing the *non-mandatory* exercises as a review for each lesson. They can be found at the [Ponto de Encontro website.](https://lingrolearning.com/product/ponto/)
 
 *Compositions (redações): 25%*
 
